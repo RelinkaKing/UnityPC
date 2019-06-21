@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 3e0118962c84b4c4ab0b39332ff31d0c
+timeCreated: 1554975317
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: JLSX_DuMai_D
+    100002: JLSX_RenMai_D
+    100004: JLSX_ShuoQueYingXingBaoJing_D
+    100006: JLSX_ShuoShaoYangSanJiaoJing_D
+    100008: JLSX_ShuoShaoYangXiaoChangJing_D
+    100010: JLSX_ShuoTaiYangXiaoChangJing_D
+    100012: JLSX_ShuoTaiYingFeiJing_D
+    100014: JLSX_ShuoYangMingDaChangJing_D
+    100016: JLSX_ZuQueYingGanJing_D
+    100018: JLSX_ZuShaoYangDanJing_D
+    100020: JLSX_ZuShaoYingShenJing_D
+    100022: JLSX_ZuTaiYangPangGuangJing_D
+    100024: JLSX_ZuTaiYingPiJing_D
+    100026: JLSX_ZuYangmingWeiJing_D
+    100028: //RootNode
+    400000: JLSX_DuMai_D
+    400002: JLSX_RenMai_D
+    400004: JLSX_ShuoQueYingXingBaoJing_D
+    400006: JLSX_ShuoShaoYangSanJiaoJing_D
+    400008: JLSX_ShuoShaoYangXiaoChangJing_D
+    400010: JLSX_ShuoTaiYangXiaoChangJing_D
+    400012: JLSX_ShuoTaiYingFeiJing_D
+    400014: JLSX_ShuoYangMingDaChangJing_D
+    400016: JLSX_ZuQueYingGanJing_D
+    400018: JLSX_ZuShaoYangDanJing_D
+    400020: JLSX_ZuShaoYingShenJing_D
+    400022: JLSX_ZuTaiYangPangGuangJing_D
+    400024: JLSX_ZuTaiYingPiJing_D
+    400026: JLSX_ZuYangmingWeiJing_D
+    400028: //RootNode
+    2300000: JLSX_DuMai_D
+    2300002: JLSX_RenMai_D
+    2300004: JLSX_ShuoQueYingXingBaoJing_D
+    2300006: JLSX_ShuoShaoYangSanJiaoJing_D
+    2300008: JLSX_ShuoShaoYangXiaoChangJing_D
+    2300010: JLSX_ShuoTaiYangXiaoChangJing_D
+    2300012: JLSX_ShuoTaiYingFeiJing_D
+    2300014: JLSX_ShuoYangMingDaChangJing_D
+    2300016: JLSX_ZuQueYingGanJing_D
+    2300018: JLSX_ZuShaoYangDanJing_D
+    2300020: JLSX_ZuShaoYingShenJing_D
+    2300022: JLSX_ZuTaiYangPangGuangJing_D
+    2300024: JLSX_ZuTaiYingPiJing_D
+    2300026: JLSX_ZuYangmingWeiJing_D
+    3300000: JLSX_DuMai_D
+    3300002: JLSX_RenMai_D
+    3300004: JLSX_ShuoQueYingXingBaoJing_D
+    3300006: JLSX_ShuoShaoYangSanJiaoJing_D
+    3300008: JLSX_ShuoShaoYangXiaoChangJing_D
+    3300010: JLSX_ShuoTaiYangXiaoChangJing_D
+    3300012: JLSX_ShuoTaiYingFeiJing_D
+    3300014: JLSX_ShuoYangMingDaChangJing_D
+    3300016: JLSX_ZuQueYingGanJing_D
+    3300018: JLSX_ZuShaoYangDanJing_D
+    3300020: JLSX_ZuShaoYingShenJing_D
+    3300022: JLSX_ZuTaiYangPangGuangJing_D
+    3300024: JLSX_ZuTaiYingPiJing_D
+    3300026: JLSX_ZuYangmingWeiJing_D
+    4300000: JLSX_DuMai_D
+    4300002: JLSX_RenMai_D
+    4300004: JLSX_ShuoQueYingXingBaoJing_D
+    4300006: JLSX_ShuoShaoYangSanJiaoJing_D
+    4300008: JLSX_ShuoShaoYangXiaoChangJing_D
+    4300010: JLSX_ShuoTaiYangXiaoChangJing_D
+    4300012: JLSX_ShuoTaiYingFeiJing_D
+    4300014: JLSX_ShuoYangMingDaChangJing_D
+    4300016: JLSX_ZuQueYingGanJing_D
+    4300018: JLSX_ZuShaoYangDanJing_D
+    4300020: JLSX_ZuShaoYingShenJing_D
+    4300022: JLSX_ZuTaiYangPangGuangJing_D
+    4300024: JLSX_ZuTaiYingPiJing_D
+    4300026: JLSX_ZuYangmingWeiJing_D
+    6400000: JLSX_DuMai_D
+    6400002: JLSX_RenMai_D
+    6400004: JLSX_ShuoQueYingXingBaoJing_D
+    6400006: JLSX_ShuoShaoYangSanJiaoJing_D
+    6400008: JLSX_ShuoShaoYangXiaoChangJing_D
+    6400010: JLSX_ShuoTaiYangXiaoChangJing_D
+    6400012: JLSX_ShuoTaiYingFeiJing_D
+    6400014: JLSX_ShuoYangMingDaChangJing_D
+    6400016: JLSX_ZuQueYingGanJing_D
+    6400018: JLSX_ZuShaoYangDanJing_D
+    6400020: JLSX_ZuShaoYingShenJing_D
+    6400022: JLSX_ZuTaiYangPangGuangJing_D
+    6400024: JLSX_ZuTaiYingPiJing_D
+    6400026: JLSX_ZuYangmingWeiJing_D
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JingMai
+    second: {fileID: 2100000, guid: 1469900174f09d54788ce4b9377c6299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a871c8d50f2e92d4792faa28a9369f1c, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

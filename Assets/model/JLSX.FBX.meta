@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 686be8be152e9f647bee6ab8a9fd836d
+timeCreated: 1555667106
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: JingLuo
+    100002: //RootNode
+    100004: JLSX_LR1
+    100006: JLSX_LR10
+    100008: JLSX_LR10z
+    100010: JLSX_LR11
+    100012: JLSX_LR11z
+    100014: JLSX_LR12
+    100016: JLSX_LR12z
+    100018: JLSX_LR13
+    100020: JLSX_LR13z
+    100022: JLSX_LR14
+    100024: JLSX_LR14z
+    100026: JLSX_LR1z
+    100028: JLSX_LR2
+    100030: JLSX_LR2z
+    100032: JLSX_LR3
+    100034: JLSX_LR3z
+    100036: JLSX_LR4
+    100038: JLSX_LR4z
+    100040: JLSX_LR5
+    100042: JLSX_LR5z
+    100044: JLSX_LR6
+    100046: JLSX_LR6z
+    100048: JLSX_LR7
+    100050: JLSX_LR7z
+    100052: JLSX_LR8
+    100054: JLSX_LR8z
+    100056: JLSX_LR9
+    100058: JLSX_LR9z
+    100060: JLSX_ZuQueYingGanJing
+    100062: XiaoQiu
+    100064: Zheng
+    400000: JingLuo
+    400002: //RootNode
+    400004: JLSX_LR1
+    400006: JLSX_LR10
+    400008: JLSX_LR10z
+    400010: JLSX_LR11
+    400012: JLSX_LR11z
+    400014: JLSX_LR12
+    400016: JLSX_LR12z
+    400018: JLSX_LR13
+    400020: JLSX_LR13z
+    400022: JLSX_LR14
+    400024: JLSX_LR14z
+    400026: JLSX_LR1z
+    400028: JLSX_LR2
+    400030: JLSX_LR2z
+    400032: JLSX_LR3
+    400034: JLSX_LR3z
+    400036: JLSX_LR4
+    400038: JLSX_LR4z
+    400040: JLSX_LR5
+    400042: JLSX_LR5z
+    400044: JLSX_LR6
+    400046: JLSX_LR6z
+    400048: JLSX_LR7
+    400050: JLSX_LR7z
+    400052: JLSX_LR8
+    400054: JLSX_LR8z
+    400056: JLSX_LR9
+    400058: JLSX_LR9z
+    400060: JLSX_ZuQueYingGanJing
+    400062: XiaoQiu
+    400064: Zheng
+    2300000: JLSX_LR1
+    2300002: JLSX_LR10
+    2300004: JLSX_LR10z
+    2300006: JLSX_LR11
+    2300008: JLSX_LR11z
+    2300010: JLSX_LR12
+    2300012: JLSX_LR12z
+    2300014: JLSX_LR13
+    2300016: JLSX_LR13z
+    2300018: JLSX_LR14
+    2300020: JLSX_LR14z
+    2300022: JLSX_LR1z
+    2300024: JLSX_LR2
+    2300026: JLSX_LR2z
+    2300028: JLSX_LR3
+    2300030: JLSX_LR3z
+    2300032: JLSX_LR4
+    2300034: JLSX_LR4z
+    2300036: JLSX_LR5
+    2300038: JLSX_LR5z
+    2300040: JLSX_LR6
+    2300042: JLSX_LR6z
+    2300044: JLSX_LR7
+    2300046: JLSX_LR7z
+    2300048: JLSX_LR8
+    2300050: JLSX_LR8z
+    2300052: JLSX_LR9
+    2300054: JLSX_LR9z
+    2300056: JLSX_ZuQueYingGanJing
+    3300000: JLSX_LR1
+    3300002: JLSX_LR10
+    3300004: JLSX_LR10z
+    3300006: JLSX_LR11
+    3300008: JLSX_LR11z
+    3300010: JLSX_LR12
+    3300012: JLSX_LR12z
+    3300014: JLSX_LR13
+    3300016: JLSX_LR13z
+    3300018: JLSX_LR14
+    3300020: JLSX_LR14z
+    3300022: JLSX_LR1z
+    3300024: JLSX_LR2
+    3300026: JLSX_LR2z
+    3300028: JLSX_LR3
+    3300030: JLSX_LR3z
+    3300032: JLSX_LR4
+    3300034: JLSX_LR4z
+    3300036: JLSX_LR5
+    3300038: JLSX_LR5z
+    3300040: JLSX_LR6
+    3300042: JLSX_LR6z
+    3300044: JLSX_LR7
+    3300046: JLSX_LR7z
+    3300048: JLSX_LR8
+    3300050: JLSX_LR8z
+    3300052: JLSX_LR9
+    3300054: JLSX_LR9z
+    3300056: JLSX_ZuQueYingGanJing
+    4300000: JLSX_ZuQueYingGanJing
+    4300002: JLSX_LR1
+    4300004: JLSX_LR2
+    4300006: JLSX_LR3
+    4300008: JLSX_LR4
+    4300010: JLSX_LR5
+    4300012: JLSX_LR6
+    4300014: JLSX_LR7
+    4300016: JLSX_LR8
+    4300018: JLSX_LR9
+    4300020: JLSX_LR10
+    4300022: JLSX_LR11
+    4300024: JLSX_LR12
+    4300026: JLSX_LR13
+    4300028: JLSX_LR14
+    4300030: JLSX_LR1z
+    4300032: JLSX_LR2z
+    4300034: JLSX_LR3z
+    4300036: JLSX_LR4z
+    4300038: JLSX_LR5z
+    4300040: JLSX_LR6z
+    4300042: JLSX_LR7z
+    4300044: JLSX_LR8z
+    4300046: JLSX_LR9z
+    4300048: JLSX_LR10z
+    4300050: JLSX_LR11z
+    4300052: JLSX_LR12z
+    4300054: JLSX_LR13z
+    4300056: JLSX_LR14z
+    6400000: JLSX_LR1
+    6400002: JLSX_LR10
+    6400004: JLSX_LR10z
+    6400006: JLSX_LR11
+    6400008: JLSX_LR11z
+    6400010: JLSX_LR12
+    6400012: JLSX_LR12z
+    6400014: JLSX_LR13
+    6400016: JLSX_LR13z
+    6400018: JLSX_LR14
+    6400020: JLSX_LR14z
+    6400022: JLSX_LR1z
+    6400024: JLSX_LR2
+    6400026: JLSX_LR2z
+    6400028: JLSX_LR3
+    6400030: JLSX_LR3z
+    6400032: JLSX_LR4
+    6400034: JLSX_LR4z
+    6400036: JLSX_LR5
+    6400038: JLSX_LR5z
+    6400040: JLSX_LR6
+    6400042: JLSX_LR6z
+    6400044: JLSX_LR7
+    6400046: JLSX_LR7z
+    6400048: JLSX_LR8
+    6400050: JLSX_LR8z
+    6400052: JLSX_LR9
+    6400054: JLSX_LR9z
+    6400056: JLSX_ZuQueYingGanJing
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #168'
+    second: {fileID: 2100000, guid: f3f882a0aa8c0d2408b87627f7f8d959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #218'
+    second: {fileID: 2100000, guid: 3f79ff40b82e4524a913f7ff0f060dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c1357e5be9dfb154ab8ca14ee07923ee, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

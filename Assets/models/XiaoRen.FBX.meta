@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: f7e86b89757c5ec4d89bd79b4fc3f7c7
+timeCreated: 1516605002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Back
+    100004: Basin
+    100006: chest
+    100008: head
+    100010: L_foot
+    100012: L_hand
+    100014: L_knee
+    100016: L_lowarleg
+    100018: L_shoulder
+    100020: L_thigh
+    100022: L_underarm001
+    100024: L_upperarm
+    100026: neck
+    100028: panzi
+    100030: R_foot
+    100032: R_hand
+    100034: R_Knee
+    100036: R_lowarleg
+    100038: R_shoulder
+    100040: R_thigh
+    100042: R_underarm
+    100044: R_upperarm
+    100046: //RootNode
+    400000: Abdomen
+    400002: Back
+    400004: Basin
+    400006: chest
+    400008: head
+    400010: L_foot
+    400012: L_hand
+    400014: L_knee
+    400016: L_lowarleg
+    400018: L_shoulder
+    400020: L_thigh
+    400022: L_underarm001
+    400024: L_upperarm
+    400026: neck
+    400028: panzi
+    400030: R_foot
+    400032: R_hand
+    400034: R_Knee
+    400036: R_lowarleg
+    400038: R_shoulder
+    400040: R_thigh
+    400042: R_underarm
+    400044: R_upperarm
+    400046: //RootNode
+    2300000: Abdomen
+    2300002: Back
+    2300004: Basin
+    2300006: chest
+    2300008: head
+    2300010: L_foot
+    2300012: L_hand
+    2300014: L_knee
+    2300016: L_lowarleg
+    2300018: L_shoulder
+    2300020: L_thigh
+    2300022: L_underarm001
+    2300024: L_upperarm
+    2300026: neck
+    2300028: panzi
+    2300030: R_foot
+    2300032: R_hand
+    2300034: R_Knee
+    2300036: R_lowarleg
+    2300038: R_shoulder
+    2300040: R_thigh
+    2300042: R_underarm
+    2300044: R_upperarm
+    3300000: Abdomen
+    3300002: Back
+    3300004: Basin
+    3300006: chest
+    3300008: head
+    3300010: L_foot
+    3300012: L_hand
+    3300014: L_knee
+    3300016: L_lowarleg
+    3300018: L_shoulder
+    3300020: L_thigh
+    3300022: L_underarm001
+    3300024: L_upperarm
+    3300026: neck
+    3300028: panzi
+    3300030: R_foot
+    3300032: R_hand
+    3300034: R_Knee
+    3300036: R_lowarleg
+    3300038: R_shoulder
+    3300040: R_thigh
+    3300042: R_underarm
+    3300044: R_upperarm
+    4300000: panzi
+    4300002: head
+    4300004: neck
+    4300006: R_upperarm
+    4300008: L_upperarm
+    4300010: chest
+    4300012: Back
+    4300014: Abdomen
+    4300016: Basin
+    4300018: R_thigh
+    4300020: L_thigh
+    4300022: R_Knee
+    4300024: R_lowarleg
+    4300026: R_foot
+    4300028: L_knee
+    4300030: L_lowarleg
+    4300032: L_foot
+    4300034: L_shoulder
+    4300036: R_shoulder
+    4300038: L_underarm001
+    4300040: L_hand
+    4300042: R_underarm
+    4300044: R_hand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
